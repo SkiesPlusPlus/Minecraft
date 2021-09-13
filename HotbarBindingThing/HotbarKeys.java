@@ -6,6 +6,7 @@ public class NameItUrself extends Module{
 	}
 
     @EventTarget
+    // Render Event = the event that hooked up to GuiIngame in my naming
     public void renderKeys(RenderEvent event) {
             ScaledResolution resolution = new ScaledResolution(mc);
             int x = resolution.getScaledWidth() / 2 - 87;
