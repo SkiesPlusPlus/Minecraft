@@ -7,4 +7,4 @@
 # TODO
 ##### • DiscordRP thing 
 ##### • Config System
-##### • make the code looks not awful because yes
+##### • make the code look not awful because yes
