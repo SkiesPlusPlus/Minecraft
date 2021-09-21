@@ -1,4 +1,4 @@
-###### very light with way little of features for Hypixel Skyblock
+###### very lite mod with way little features for Hypixel Skyblock
 ###### made for mcp/mixins
 
 # Currently working on
