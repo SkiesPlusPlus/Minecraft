@@ -47,6 +47,7 @@ public class RamWarning {
 	}
 
 	private void drawScaledString(String text, int x, int y, float scale, int color) {
+		//this is not how u scale a string u have to translate it but whatever
 		GlStateManager.pushMatrix();
 		GlStateManager.scale(scale, scale, 25);
 		mc.fontRendererObj.drawString(text, x, y, color, false);
