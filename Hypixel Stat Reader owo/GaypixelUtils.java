@@ -15,6 +15,8 @@ public class GaypixelUtils{
        }
     }
   
+  //Reading custom jsons are very easy u can prolly figure out urself ok bye
+  //ps : u can use github to host ur jsons too ok
    
   
   
