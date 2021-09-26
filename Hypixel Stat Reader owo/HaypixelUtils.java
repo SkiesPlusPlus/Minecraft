@@ -1,6 +1,6 @@
 public class GaypixelUtils{
   
-   private String hypixelRank = "owo";
+   private String hypixelRank = "owo"; 
    private static JSONObject jsonObject;
    //u can prob use google gson
   
