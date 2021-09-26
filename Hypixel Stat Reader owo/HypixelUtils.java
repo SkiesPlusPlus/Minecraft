@@ -12,4 +12,11 @@ public class GaypixelUtils{
             return jsonObject.getString("rank");
        }
     } 
+  
+    public static String getCurrentVersion(){
+        jsonObject = JSONReader.readJsonFromUrl("https://raw.githubusercontent.com/SkiesPlusPlus/my-test-stuff-/main/whitelist.json");
+        return object.jsonObject("version");
+      //Reading ur jsons for version checking etc
+    }
+  
 }
