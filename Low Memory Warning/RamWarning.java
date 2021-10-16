@@ -1,17 +1,3 @@
-package me.skies.arcon.ui.misc;
-
-import org.lwjgl.input.Mouse;
-
-import me.skies.arcon.events.Event;
-import me.skies.arcon.events.EventManager;
-import me.skies.arcon.events.EventTarget;
-import me.skies.arcon.events.impl.render.GuiIngameEvent;
-import net.minecraft.client.Minecraft;
-import net.minecraft.client.gui.Gui;
-import net.minecraft.client.gui.GuiChat;
-import net.minecraft.client.gui.ScaledResolution;
-import net.minecraft.client.renderer.GlStateManager;
-
 public class RamWarning {
 
 	private static Minecraft mc = Minecraft.getMinecraft();
